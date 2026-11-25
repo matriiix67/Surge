@@ -3,8 +3,8 @@
 <h4 align="center"> 一个基于 Surge 5 客户端展示网络信息面板工具 </h4>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Network-Info//img/cell.PNG" width="300"></img>
-<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Network-Info//img/Wi-Fi.PNG" width="300"></img>
+<img src="https://raw.githubusercontent.com/matriiix67/Surge/Master/Module/Panel/Network-Info//img/cell.PNG" width="300"></img>
+<img src="https://raw.githubusercontent.com/matriiix67/Surge/Master/Module/Panel/Network-Info//img/Wi-Fi.PNG" width="300"></img>
 </p>
 
 ## 功能
@@ -19,7 +19,7 @@
 >**TestFlight 测试版 4.11.0 (2014) 或更新版本**
 
 ### 2. 模块安装链接
-> **简体中文正式版 :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Network-Info/Moore/Network-Info.sgmodule<br>
+> **简体中文正式版 :** https://raw.githubusercontent.com/matriiix67/Surge/Master/Module/Panel/Network-Info/Moore/Network-Info.sgmodule<br>
 > **繁体中文正式版 :** https://raw.githubusercontent.com/Nebulosa-Cat/Surge/main/Panel/Network-Info/Network-Info.sgmodule<br>
 
 ### 3. 安裝方式

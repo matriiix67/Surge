@@ -3,8 +3,8 @@
 <h4 align="center">每日自动签到+去广告</h4>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Spec/smzdm/img/1.PNG" width="300"></img>
-<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Spec/smzdm/img/2.PNG" width="300"></img>
+<img src="https://raw.githubusercontent.com/matriiix67/Surge/Master/Module/Spec/smzdm/img/1.PNG" width="300"></img>
+<img src="https://raw.githubusercontent.com/matriiix67/Surge/Master/Module/Spec/smzdm/img/2.PNG" width="300"></img>
 </p>
 
 ## 功能
@@ -19,7 +19,7 @@
 
 
 ### 2. 模块安装链接
-> **稳定版 :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Spec/smzdm/Moore/smzdm.sgmodule<br>
+> **稳定版 :** https://raw.githubusercontent.com/matriiix67/Surge/Master/Module/Spec/smzdm/Moore/smzdm.sgmodule<br>
 
 ### 3. 安装方式
 打开 Surge -> 模块 -> 安装新模块... -> 复制粘贴上方的安装链接 -> 完成!

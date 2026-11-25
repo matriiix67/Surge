@@ -3,7 +3,7 @@
 <h4 align="center">跳过部分应用的代理检测</h4>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Spec/Skip-Proxy/img/1.PNG" width="300"></img>
+<img src="https://raw.githubusercontent.com/matriiix67/Surge/Master/Module/Spec/Skip-Proxy/img/1.PNG" width="300"></img>
 </p>
 
 ## 功能

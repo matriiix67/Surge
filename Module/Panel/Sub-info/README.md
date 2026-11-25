@@ -3,7 +3,7 @@
 <h4 align="center">一个可以查看你机场剩余流量/重置流量日期/套餐到期等功能的面板 </h4>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Sub-info/img/Sub_info.PNG" width="300"></img>
+<img src="https://raw.githubusercontent.com/matriiix67/Surge/Master/Module/Panel/Sub-info/img/Sub_info.PNG" width="300"></img>
 </p>
 
 ## 功能
@@ -20,8 +20,8 @@
 >**TestFlight 版 4.11.0 (2014) 或更新版本**
 
 ### 2. 模块安装链接
-> **稳定版 :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Sub-info/Moore/Sub-info.sgmodule<br>
-> **Max版 :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Sub-info/Moore/Sub-info_Max.sgmodule<br>
+> **稳定版 :** https://raw.githubusercontent.com/matriiix67/Surge/Master/Module/Panel/Sub-info/Moore/Sub-info.sgmodule<br>
+> **Max版 :** https://raw.githubusercontent.com/matriiix67/Surge/Master/Module/Panel/Sub-info/Moore/Sub-info_Max.sgmodule<br>
 
 ### 3. 安装方式
 打开 Surge -> 模块 -> 新建本地模块 -> 复制粘贴上方的安装链接里的模块内容到本地（不是复制链接！）-> 先将带有流量信息的节点订阅链接encode，用encode后的链接替换"url="后面的[机场节点链接] -> 完成!

@@ -3,8 +3,8 @@
 <h4 align="center"> 一个基于 Surge 5 客户端展示网络接口信息面板工具 </h4>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Interface-Info//img/1.PNG" width="300"></img>
-<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Interface-Info//img/2.PNG" width="300"></img>
+<img src="https://raw.githubusercontent.com/matriiix67/Surge/Master/Module/Panel/Interface-Info//img/1.PNG" width="300"></img>
+<img src="https://raw.githubusercontent.com/matriiix67/Surge/Master/Module/Panel/Interface-Info//img/2.PNG" width="300"></img>
 </p>
 
 ## 功能
@@ -18,7 +18,7 @@
 >**AppStore 商店版 5.8.3 或更新版本**<br>
 
 ### 2. 模块安装链接
-> **紧凑版 :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Interface-Info/Moore/interface-info-ncompact.sgmodule<br>
+> **紧凑版 :** https://raw.githubusercontent.com/matriiix67/Surge/Master/Module/Panel/Interface-Info/Moore/interface-info-ncompact.sgmodule<br>
 > **常规版 :** https://raw.githubusercontent.com/Nebulosa-Cat/Surge/main/Panel/Interface-Info/interface-info-normal.sgmodule<br>
 
 ### 3. 安裝方式

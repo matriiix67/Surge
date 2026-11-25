@@ -3,7 +3,7 @@
 <h4 align="center">一个可以显示Surge启动时长的面板 </h4>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Surge-Pro/img/PRO.PNG" width="300"></img>
+<img src="https://raw.githubusercontent.com/matriiix67/Surge/Master/Module/Panel/Surge-Pro/img/PRO.PNG" width="300"></img>
 </p>
 
 ## 功能
@@ -17,7 +17,7 @@
 >**TestFlight 版 4.11.0 (2014) 或更新版本**
 
 ### 2. 模块安装链接
-> **稳定版 :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Surge-Pro/Moore/SurgePro.sgmodule<br>
+> **稳定版 :** https://raw.githubusercontent.com/matriiix67/Surge/Master/Module/Panel/Surge-Pro/Moore/SurgePro.sgmodule<br>
 
 ### 3. 安装方式
 打开 Surge -> 模块 -> 安装新模块... -> 复制粘贴上方的安装链接 -> 完成!

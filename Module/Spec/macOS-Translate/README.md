@@ -3,7 +3,7 @@
 <h4 align="center">一个可以解决macOS下无法正常使用系统翻译功能的模块 </h4>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Spec/macOS-Translate/img/1.png" width="300"></img>
+<img src="https://raw.githubusercontent.com/matriiix67/Surge/Master/Module/Spec/macOS-Translate/img/1.png" width="300"></img>
 </p>
 
 ## 功能
@@ -17,7 +17,7 @@
 >**TestFlight 版 5.20.0 (2433) 或更新版本**
 
 ### 2. 模块安装链接
-> **稳定版 :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Spec/macOS-Translate/Moore/macOS-Translate.sgmodule<br>
+> **稳定版 :** https://raw.githubusercontent.com/matriiix67/Surge/Master/Module/Spec/macOS-Translate/Moore/macOS-Translate.sgmodule<br>
 
 ### 3. 安装方式
 打开 Surge for Mac -> 更多 -> 模块 -> 从URL安装模块... -> 复制粘贴上方的安装链接 -> 启用模块 -> 完成!

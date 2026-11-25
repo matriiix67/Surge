@@ -3,7 +3,7 @@
 <h4 align="center">优化跳转以及搜索结果</h4>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Spec/Baidu_index/img/1.PNG" width="300"></img>
+<img src="https://raw.githubusercontent.com/matriiix67/Surge/Master/Module/Spec/Baidu_index/img/1.PNG" width="300"></img>
 </p>
 
 ## 功能

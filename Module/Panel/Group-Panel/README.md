@@ -3,7 +3,7 @@
 <h4 align="center">一个可以快速切换策略组节点的面板 </h4>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Group-Panel/img/Group-Panel.PNG" width="300"></img>
+<img src="https://raw.githubusercontent.com/matriiix67/Surge/Master/Module/Panel/Group-Panel/img/Group-Panel.PNG" width="300"></img>
 </p>
 
 ## 功能
@@ -18,7 +18,7 @@
 >**TestFlight 版 4.11.0 (2014) 或更新版本**
 
 ### 2. 模块安装链接
-> **稳定版 :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Group-Panel/Moore/Group-Panel.sgmodule<br>
+> **稳定版 :** https://raw.githubusercontent.com/matriiix67/Surge/Master/Module/Panel/Group-Panel/Moore/Group-Panel.sgmodule<br>
 
 ### 3. 安装方式
 打开 Surge -> 模块 -> 新建本地模块 -> 复制粘贴上方的安装链接里的模块内容到本地（不是复制链接！） -> 在Script中必须修改的参数：group：你策略组的名称 -> 完成!

@@ -3,7 +3,7 @@
 <h4 align="center">百度贴吧每日自动签到</h4>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Spec/Tieba_Checkin/img/1.PNG" width="300"></img>
+<img src="https://raw.githubusercontent.com/matriiix67/Surge/Master/Module/Spec/Tieba_Checkin/img/1.PNG" width="300"></img>
 </p>
 
 ## 功能

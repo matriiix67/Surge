@@ -3,8 +3,8 @@
 <h4 align="center">使用阿里DoQ服务加密传输 </h4>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Spec/DNS-QUIC/img/1.PNG" width="300"></img>
-<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Spec/DNS-QUIC/img/2.PNG" width="300"></img>
+<img src="https://raw.githubusercontent.com/matriiix67/Surge/Master/Module/Spec/DNS-QUIC/img/1.PNG" width="300"></img>
+<img src="https://raw.githubusercontent.com/matriiix67/Surge/Master/Module/Spec/DNS-QUIC/img/2.PNG" width="300"></img>
 </p>
 
 ## 功能
@@ -20,7 +20,7 @@ QUIC是一种新的协议，它是基于UDP协议的，并且使用了TLS 1.3来
 >**AppStore 版 Surge 5.8.3 或更新版本**<br>
 
 ### 2. 模块安装链接
-> **阿里云DoQ :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Spec/DNS-QUIC/Moore/Ali-DoQ.sgmodule<br>
+> **阿里云DoQ :** https://raw.githubusercontent.com/matriiix67/Surge/Master/Module/Spec/DNS-QUIC/Moore/Ali-DoQ.sgmodule<br>
 
 ### 3. 安装方式
 打开 Surge -> 模块 -> 安装新模块... -> 复制粘贴上方的安装链接 -> 完成!

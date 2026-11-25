@@ -1,0 +1,4 @@
+# X (Twitter) 自有 ASN，覆盖上游 IP-CIDR 未包含的 IPv4/IPv6 直连流量
+IP-ASN,13414,no-resolve // Twitter Inc
+IP-ASN,35995,no-resolve // Twitter Inc
+IP-ASN,63179,no-resolve // Twitter Inc

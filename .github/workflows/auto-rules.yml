@@ -39,9 +39,9 @@ jobs:
           # 获取北京时间
           UPDATE_TIME=$(TZ="Asia/Shanghai" date +"%Y.%m.%d %H:%M:%S")
           
-          # 1. 定义标准处理函数 (用于 1对1 的规则同步)
+          # 1. 定义标准处理函数 (用于 1对1 的规则同步；第一个参数可传入多个以空格分隔的上游地址，按顺序合并)
           process_rule() {
-            local source_url=$1
+            local source_urls=$1
             local target_name=$2
             local display_name=$3
             
@@ -70,11 +70,14 @@ jobs:
             
             # B. 写入上游同步规则 (紧贴手动规则输出)
             echo "# ======= 上游同步规则 ========" >> "$temp_body"
-            if [ -f "$exclude_file" ] && [ -s "$exclude_file" ]; then
-              curl -sL "$source_url" | sed 's/\r//g' | grep -v '^#' | grep -v '^[[:space:]]*$' | grep -vFf "$exclude_file" >> "$temp_body"
-            else
-              curl -sL "$source_url" | sed 's/\r//g' | grep -v '^#' | grep -v '^[[:space:]]*$' >> "$temp_body"
-            fi
+            local source_url
+            for source_url in $source_urls; do
+              if [ -f "$exclude_file" ] && [ -s "$exclude_file" ]; then
+                curl -sL "$source_url" | sed 's/\r//g' | grep -v '^#' | grep -v '^[[:space:]]*$' | grep -vFf "$exclude_file" >> "$temp_body"
+              else
+                curl -sL "$source_url" | sed 's/\r//g' | grep -v '^#' | grep -v '^[[:space:]]*$' >> "$temp_body"
+              fi
+            done
             
             # C. 规则去重（保留注释顺序，去除正文完全重复的行）
             awk '/^#|^[[:space:]]*$/ {print; next} !seen[$0]++' "$temp_body" > "${temp_body}.tmp" && mv "${temp_body}.tmp" "$temp_body"
@@ -131,6 +134,10 @@ jobs:
 
           URL_PROXY="https://magicrule.pages.dev/data/_shared/artifacts/Facebook_rules_d466caed63d7550c.list"
           process_rule "$URL_PROXY" "Facebook.list" "深巷有喵的「Facebook」规则"
+
+          # X 规则 = Twitter + Grok（Grok 同时在 AIGC.exclude.txt 中排除，统一走 X 策略组）
+          URL_PROXY="https://magicrule.pages.dev/data/_shared/artifacts/Twitter_rules_0924ca0971e18745.list https://magicrule.pages.dev/data/_shared/artifacts/Grok_rules_1686b96ebfe522d0.list"
+          process_rule "$URL_PROXY" "X.list" "深巷有喵的「X」规则"
 
           URL_PROXY="https://magicrule.pages.dev/data/_shared/artifacts/Microsoft_rules_7fd3d40967dabeef.list"
           process_rule "$URL_PROXY" "Microsoft.list" "深巷有喵的「Microsoft」规则"

@@ -1,8 +1,8 @@
 # NAME: 深巷有喵的「AIGC」规则
 # AUTHOR: Rabbit-Spec
 # REPO: https://github.com/Rabbit-Spec/Surge
-# UPDATED: 2026.11.25 11:27:16
-# TOTAL: 358
+# UPDATED: 2026.11.25 15:06:10
+# TOTAL: 353
 
 # ======= 手动维护规则 ========
 # Cursor
@@ -215,10 +215,6 @@ DOMAIN-SUFFIX,githubcopilot.com
 DOMAIN-SUFFIX,grammarly.com
 DOMAIN-SUFFIX,grazie.ai
 DOMAIN-SUFFIX,grazie.aws.intellij.net
-DOMAIN-SUFFIX,grok.com
-DOMAIN-SUFFIX,grok.x.com
-DOMAIN-SUFFIX,grokbot.com
-DOMAIN-SUFFIX,grokipedia.com
 DOMAIN-SUFFIX,groq.com
 DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
 DOMAIN-SUFFIX,guzzoni.apple.com
@@ -348,7 +344,6 @@ DOMAIN-SUFFIX,v0.app
 DOMAIN-SUFFIX,v0.dev
 DOMAIN-SUFFIX,windsurf.build
 DOMAIN-SUFFIX,windsurf.com
-DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,you.com
 DOMAIN-SUFFIX,youmind.ai
 DOMAIN-SUFFIX,youmind.com

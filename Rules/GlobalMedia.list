@@ -2,12 +2,10 @@
 # AUTHOR: Rabbit-Spec
 # REPO: https://github.com/matriiix67/Surge
 # UPDATED: 2026.11.25 15:30:26
-# TOTAL: 1716
+# TOTAL: 1707
 
 # ======= 上游同步规则 ========
 DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
-DOMAIN,ai.google.dev
-DOMAIN,aistudio.google.com
 DOMAIN,aod-dash-uk-live.akamaized.net
 DOMAIN,aod-hls-uk-live.akamaized.net
 DOMAIN,api.githubcopilot.com
@@ -19,7 +17,6 @@ DOMAIN,as-hls-uk-live.akamaized.net
 DOMAIN,atv-ps.amazon.com
 DOMAIN,avodmp4s3ww-a.akamaihd.net
 DOMAIN,bahamut.akamaized.net
-DOMAIN,bard.google.com
 DOMAIN,bcbolt446c5271-a.akamaihd.net
 DOMAIN,bcbolthboa-a.akamaihd.net
 DOMAIN,cdn.registerdisney.go.com
@@ -48,8 +45,6 @@ DOMAIN,edge.api.brightcove.com
 DOMAIN,edge.cwtv-vod-ext.top.comcast.net
 DOMAIN,gamer-cds.cdn.hinet.net
 DOMAIN,gamer2-cds.cdn.hinet.net
-DOMAIN,gemini.google.com
-DOMAIN,generativelanguage.googleapis.com
 DOMAIN,gspe1-ssl.ls.apple.com
 DOMAIN,hamifans.emome.net
 DOMAIN,hboasia1-i.akamaihd.net
@@ -69,7 +64,6 @@ DOMAIN,music.youtube.com
 DOMAIN,mytvsuperlimited.hb.omtrdc.net
 DOMAIN,mytvsuperlimited.sc.omtrdc.net
 DOMAIN,netflix.com.edgesuite.net
-DOMAIN,notebooklm.google.com
 DOMAIN,np-edge.itunes.apple.com
 DOMAIN,p16-tiktokcdn-com.akamaized.net
 DOMAIN,play-edge.itunes.apple.com
@@ -151,7 +145,6 @@ DOMAIN-SUFFIX,babyzone.com
 DOMAIN-SUFFIX,bahamut.com.tw
 DOMAIN-SUFFIX,bam.nr-data.net
 DOMAIN-SUFFIX,bamgrid.com
-DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,bbc.co
 DOMAIN-SUFFIX,bbc.co.uk
 DOMAIN-SUFFIX,bbc.com
@@ -605,7 +598,6 @@ DOMAIN-SUFFIX,fxn.ws
 DOMAIN-SUFFIX,fxnetwork.com
 DOMAIN-SUFFIX,fxnetworks.com
 DOMAIN-SUFFIX,gamer.com.tw
-DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,geraldoatlarge.com
 DOMAIN-SUFFIX,getblueshift.com
 DOMAIN-SUFFIX,ggpht.cn
@@ -770,7 +762,6 @@ DOMAIN-SUFFIX,llnwd.net
 DOMAIN-SUFFIX,logx.optimizely.com
 DOMAIN-SUFFIX,londonreal.tv
 DOMAIN-SUFFIX,m-content-viki.s.llnwi.net
-DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,manifest.prod.boltdns.net
 DOMAIN-SUFFIX,marvel.com
 DOMAIN-SUFFIX,marvel10thanniversary.com

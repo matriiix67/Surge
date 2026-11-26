@@ -3,3 +3,15 @@ DOMAIN-SUFFIX,cursor.sh
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,claudeusercontent.com
+ai.google.dev
+aistudio.google
+bard.google
+gemini.google
+generativelanguage.googleapis
+makersuite.google
+notebooklm.google
+notebook.google
+labs.google
+jules.google
+antigravity
+deepmind

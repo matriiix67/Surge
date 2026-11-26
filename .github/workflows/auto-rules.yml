@@ -1,7 +1,7 @@
 # 深巷有喵的「Surge」上游同步规则
 # 版本：1.4.2
 # 日期：2026.11.02
-# 作者：https://github.com/Rabbit-Spec/Surge
+# 作者：https://github.com/matriiix67/Surge
 
 name: Auto-Surge-Rules
 
@@ -89,7 +89,7 @@ jobs:
             {
               echo "# NAME: $display_name"
               echo "# AUTHOR: Rabbit-Spec"
-              echo "# REPO: https://github.com/Rabbit-Spec/Surge"
+              echo "# REPO: https://github.com/matriiix67/Surge"
               echo "# UPDATED: $UPDATE_TIME"
               echo "# TOTAL: $rule_count"
               echo ""
@@ -223,7 +223,7 @@ jobs:
           # E. 写入 Proxy.list 最终文件
           echo "# NAME: 深巷有喵的「Proxy」规则" > "$PROXY_TARGET"
           echo "# AUTHOR: Rabbit-Spec" >> "$PROXY_TARGET"
-          echo "# REPO: https://github.com/Rabbit-Spec/Surge" >> "$PROXY_TARGET"
+          echo "# REPO: https://github.com/matriiix67/Surge" >> "$PROXY_TARGET"
           echo "# UPDATED: $UPDATE_TIME" >> "$PROXY_TARGET"
           echo "# TOTAL: $proxy_count" >> "$PROXY_TARGET"
           echo "" >> "$PROXY_TARGET"
